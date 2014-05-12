@@ -38,6 +38,7 @@ zstyle ':prezto:load' pmodule \
   'osx' \
   'node' \
   'ruby' \
+  'tmux' \
   'syntax-highlighting' \
   'history-substring-search' \
   'ssh' \
