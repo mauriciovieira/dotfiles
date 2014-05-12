@@ -47,6 +47,7 @@ alias zr='source ~/.zshrc'
 
 # Git Aliases
 alias gs='git status'
+alias st='git status'
 alias gstsh='git stash'
 alias gst='git stash'
 alias gsp='git stash pop'
