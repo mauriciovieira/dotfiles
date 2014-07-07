@@ -128,3 +128,7 @@
 [user]
 	name = Mauricio Vieira
 	email = mauricio@mauriciovieira.net
+[github]
+	user = mauriciovieira
+[ghi]
+	token = 5476157c471e9f951321b1548d3f74ea7acdeafb
